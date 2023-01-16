@@ -10,5 +10,5 @@ let resalt = 1;
 for (let i = 0; i < arr.length; i++) {
   resalt = arr[i];
   //   console.log(resalt);
-  if (resalt > 5) console.log(resalt);
+  if (resalt > 5) if (resalt < 10) console.log(resalt);
 }
