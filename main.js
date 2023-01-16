@@ -14,5 +14,5 @@
 //   console.log(resalt);
 // }
 
-let user = 1;
+const user = 1;
 console.log(user);
