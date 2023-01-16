@@ -7,8 +7,9 @@
 const arr = [2, 5, 8, 15, 0, 6, 20, 3];
 let resalt = 1;
 
-for (let i = 0; i < arr.length; i++) {
+for (let i = 0; i < 4; i++) {
   resalt = arr[i];
   //   console.log(resalt);
-  if (resalt > 5) if (resalt < 10) console.log(resalt);
+  // if (resalt > 5) if (resalt < 10)
+  console.log(resalt);
 }
